@@ -9,7 +9,7 @@
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์ **[ชื่อโปรเจกต์ หรือ สิ่งที่กำลังทำ]**
 - 🌱 กำลังเรียนรู้ **[เทคโนโลยี หรือ ภาษาที่กำลังศึกษา เช่น Next.js, Docker, Machine Learning]**
 - 💬 ถามผม/ฉัน ได้เรื่อง **[ความถนัด เช่น React, Python, SQL]**
-- 📫 ช่องทางติดต่อ: **[อีเมลของคุณ]** หรือ [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 ช่องทางติดต่อ: **[suchada.sai@ku.th]** หรือ [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
