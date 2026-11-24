@@ -6,9 +6,8 @@
 ---
 
 ### 🧑‍💻 เกี่ยวกับฉัน (About Me)
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์ **[ชื่อโปรเจกต์ หรือ สิ่งที่กำลังทำ]**
+- 🔭 กำลังศึกษา **มหาวิทยาลัยเกษตรศาสตร์ กำแพงแสน**
 - 🌱 กำลังเรียนรู้ **เทคโนโลยีสารสนเทศ**
-- 💬 ถามผม/ฉัน ได้เรื่อง **[ความถนัด เช่น React, Python, SQL]**
 - 📫 ช่องทางติดต่อ: **suchada.sai@ku.th ** 
 ---
 
@@ -40,3 +39,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchada-2549&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchada-2549&layout=compact&theme=tokyonight)
+
+### 🎯 เป้าหมายของฉัน (My Goals)
+- [ ] พัฒนา Full-Stack Web Application ด้วย React และ Node.js
+- [ ] ฝึกเชื่อมต่อฐานข้อมูล PostgreSQL และ部署 (Deploy) เว็บให้ใช้งานได้จริง
+- [ ] สร้างพอร์ตโฟลิโอบน GitHub เพื่อเตรียมพร้อมสำหรับการสมัครฝึกงาน (Internship)
