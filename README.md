@@ -1,4 +1,4 @@
-# สวัสดีครับ/ค่ะ, ฉันชื่อSuchada 👋
+# สวัสดีค่ะ, ฉันชื่อSuchada 👋
 
 🚀 **CS Student**  
 📍 อาศัยอยู่ที่ Bangkok, Thailand
