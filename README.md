@@ -42,5 +42,4 @@
 
 ### 🎯 เป้าหมายของฉัน (My Goals)
 - [ ] พัฒนา Full-Stack Web Application ด้วย React และ Node.js
-- [ ] ฝึกเชื่อมต่อฐานข้อมูล PostgreSQL และ部署 (Deploy) เว็บให้ใช้งานได้จริง
 - [ ] สร้างพอร์ตโฟลิโอบน GitHub เพื่อเตรียมพร้อมสำหรับการสมัครฝึกงาน (Internship)
