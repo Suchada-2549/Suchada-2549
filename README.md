@@ -1,16 +1,15 @@
-# สวัสดีครับ/ค่ะ, ผมชื่อ [Suchada] 👋
+# สวัสดีครับ/ค่ะ, ฉันชื่อSuchada 👋
 
-🚀 **[CS Student]**  
-📍 อาศัยอยู่ที่ [Bangkok, Thailand]
+🚀 **CS Student**  
+📍 อาศัยอยู่ที่ Bangkok, Thailand
 
 ---
 
 ### 🧑‍💻 เกี่ยวกับฉัน (About Me)
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์ **[ชื่อโปรเจกต์ หรือ สิ่งที่กำลังทำ]**
-- 🌱 กำลังเรียนรู้ **[เทคโนโลยีสารสนเทศ]**
+- 🌱 กำลังเรียนรู้ **เทคโนโลยีสารสนเทศ**
 - 💬 ถามผม/ฉัน ได้เรื่อง **[ความถนัด เช่น React, Python, SQL]**
-- 📫 ช่องทางติดต่อ: **[suchada.sai@ku.th ]** หรือ [LinkedIn](https://linkedin.com/in/your-profile)
-
+- 📫 ช่องทางติดต่อ: **suchada.sai@ku.th ** 
 ---
 
 ### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
@@ -38,7 +37,6 @@
 ---
 
 ### 📊 สถิติ GitHub (GitHub Stats)
-*(เปลี่ยนคำว่า `your-username` เป็น Username ของคุณเพื่อให้กราฟแสดงผล)*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchada-2549&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchada-2549&layout=compact&theme=tokyonight)
