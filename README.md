@@ -40,5 +40,5 @@
 ### 📊 สถิติ GitHub (GitHub Stats)
 *(เปลี่ยนคำว่า `your-username` เป็น Username ของคุณเพื่อให้กราฟแสดงผล)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suchada-2549&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suchada-2549&layout=compact&theme=tokyonight)
